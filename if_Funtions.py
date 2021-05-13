@@ -25,4 +25,5 @@ elif q % 3 == 0 :
     print("Q is Divisible by 3.") #True
 else :
     print("Q is neither divisible by 2 nor by 3!")
-    print("")
+    print("______________________________________")
+print("MMG")
